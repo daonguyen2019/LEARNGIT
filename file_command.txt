@@ -24,6 +24,23 @@ git fetch <remote> <branch>
 git fetch origingi <branch>
 
 
+…or create a new repository on the command line
+ echo "# LEARNGIT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/daonguyen2019/LEARNGIT.git
+git push -u origin main
+
+…or push an existing repository from the command line
+ git remote add origin https://github.com/daonguyen2019/LEARNGIT.git
+git branch -M main
+git push -u origin main
+
+
+
+
 
 
 
