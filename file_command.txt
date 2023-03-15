@@ -1,0 +1,19 @@
+mkdir fileName
+git clone (HTTS)
+git clone https://token@github
+
+git status: to show if the folder is a git repository
+git init: initialize repo
+
+git add FileName
+git commit (-m message)
+
+
+
+
+
+
+
+
+
+
