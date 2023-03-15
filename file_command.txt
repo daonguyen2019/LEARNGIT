@@ -18,7 +18,7 @@ git remote rename <old> <new>
 git remote remove <name>
 
 git push -u origin main/master
-
+git branch -M main
 
 git fetch <remote> <branch>
 git fetch origingi <branch>
